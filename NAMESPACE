@@ -1,0 +1,6 @@
+export(AminoAcidContent)
+export(AMIP)
+export(CGR)
+export(GC_content)
+export(OFDEG)
+export(RSCU)
